@@ -1,0 +1,37 @@
+acsefunctions package
+=====================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   acsefunctions.utils
+
+Submodules
+----------
+
+acsefunctions.bessel\_funcs module
+----------------------------------
+
+.. automodule:: acsefunctions.bessel_funcs
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+acsefunctions.taylor\_funcs module
+----------------------------------
+
+.. automodule:: acsefunctions.taylor_funcs
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: acsefunctions
+   :members:
+   :undoc-members:
+   :show-inheritance:
